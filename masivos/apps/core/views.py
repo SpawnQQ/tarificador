@@ -1,4 +1,4 @@
-from .tarifas.testing import *
+from .tarifas.r_environment import *
 from django.shortcuts import render
 from rest_framework.views import APIView
 from rest_framework.permissions import AllowAny
